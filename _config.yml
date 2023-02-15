@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: The International Summer School on Interactions of Proof Assistants and Mathematics 2023
-name: The International Summer School on Interactions of Proof Assistants and Mathematics 2023
+title: Interactions of Proof Assistants and Mathematics
+name: International Summer School, Regensburg, Germany, 2023
 
 # Build settings
 markdown: kramdown
