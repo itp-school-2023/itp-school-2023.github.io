@@ -5,6 +5,7 @@
 layout: default
 ---
 
+<!--
 Beweisassistenten sind Programmiersprachen bzw. zugehörige Übersetzer
 und Entwicklungsumgebungen, die es ermöglichen, komplexe Systeme und
 Beweise ihrer Eigenschaften formal zu beschreiben sowie die
@@ -23,3 +24,4 @@ Das Ziel ist es, mehr Mathematiker und Informatiker an diese Thematik
 heranzuführen, den Austausch zwischen Mathematikern und Informatikern
 auf diesem Gebiet weiter zu fördern und die neuesten Entwicklungen zu
 kommunizieren.
+-->
