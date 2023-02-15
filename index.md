@@ -9,7 +9,7 @@ Proof assistants are tools that enable the formal description and
 rigorous analysis of complex systems: for instance, of hardware
 components, software programs, or of deep results in mathematics.
 
-The First International Summer School on Interactions of Proof
+The first International Summer School on Interactions of Proof
 Assistants and Mathematics presents state-of-the-art proof
 assistants from different angles: theoretical foundations,
 engineering aspects, applications in areas including mathematics
