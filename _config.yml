@@ -26,7 +26,7 @@ plugins:
 remote_theme: pages-themes/minimal@v0.2.0
 
 sidebar:
-  - name: Overview
+  - name: About
     link: /
   - name: Lecturers
     link: lecturers
