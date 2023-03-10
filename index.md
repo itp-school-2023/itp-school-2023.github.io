@@ -32,4 +32,8 @@ a UNESCO World Heritage Site, and considered the largest authentically preserved
 medieval city in Germany. The summer school is organized by the University
 of Regensburg.
 
+## Organizers ##
 
+* <a href="https://cisinski.app.uni-regensburg.de/">Denis-Charles Cisinski</a>
+* <a href="https://loeh.app.uni-regensburg.de/">Clara Löh</a>
+* <a href="https://www.uni-regensburg.de/informatik-data-science/theoretische-informatik/startseite/index.html">Philipp Rümmer</a>
