@@ -7,3 +7,13 @@ layout: default
 
 # Lecturers at the Summer School #
 
+The speakers at the summer school will include:
+* Benedikt Ahrens
+* Steve Awodey
+* Andrej Bauer
+* Thierry Coquand
+* John Harrison
+* Conor McBride
+* Paige Randall North
+* Emily Riehl
+* Michael Shulman
