@@ -9,10 +9,11 @@
         color: var(--clr-a-text-hvr);
       }
     </style>
-    <ul class="link">
+    <p>
       {%- for platform in site.sidebar %}
       <!-- <li><a href="{{ platform.link }}"><i class="{{ platform.icon }}"></i> {{ platform.name }}</a></li> -->
-       <li><a href="{{ platform.link }}">{{ platform.name }}</a></li>
+        <b><a href="{{ platform.link }}">{{ platform.name }}</a></b>
+       <br>
       {%- endfor %}
-    </ul>
+    </p>
   </div>
