@@ -15,6 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Interactions of Proof Assistants and Mathematics
 name: International Summer School, Regensburg, Germany, 2023
+description: International Summer School, Regensburg, Germany, 2023
 
 # Build settings
 markdown: kramdown
