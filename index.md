@@ -5,6 +5,9 @@
 layout: default
 ---
 
+<a title="Tilman2007, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Steinerne_Br%C3%BCcke_und_Dom,_von_Nordwesten_Regensburg_20190822_022.jpg"><img width="1024" alt="Steinerne Brücke und Dom, von Nordwesten Regensburg 20190822 022" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Steinerne_Br%C3%BCcke_und_Dom%2C_von_Nordwesten_Regensburg_20190822_022.jpg/1024px-Steinerne_Br%C3%BCcke_und_Dom%2C_von_Nordwesten_Regensburg_20190822_022.jpg"></a>
+<a href="https://commons.wikimedia.org/wiki/File:Steinerne_Br%C3%BCcke_und_Dom,_von_Nordwesten_Regensburg_20190822_022.jpg">Tilman2007</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+
 Proof assistants are tools that enable the formal description and
 rigorous analysis of complex systems: for instance, of hardware
 components, software programs, or of deep results in mathematics.
