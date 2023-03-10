@@ -12,7 +12,7 @@ layout: default
 
 Proof assistants are tools that enable the formal description and
 rigorous analysis of complex systems. Proof assistants increasingly
-find use in all areas in mistakes are not an option; for instance,
+find use in all areas in which mistakes are not an option; for instance,
 in the design of hardware components, software programs, or
 to produce machine-checked proofs of deep results in mathematics.
 
