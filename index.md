@@ -29,6 +29,7 @@ collaboration and exchange between those two communities.
 The summer school will take place in September 2023 in the town
 centre of Regensburg in Bavaria, Germany. The Old Town of Regensburg is listed as
 a UNESCO World Heritage Site, and considered the largest authentically preserved
-medieval city in Germany.
+medieval city in Germany. The summer school is organized by the University
+of Regensburg.
 
 
