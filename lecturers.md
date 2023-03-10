@@ -17,3 +17,5 @@ The speakers at the summer school will include:
 * Paige Randall North
 * Emily Riehl
 * Michael Shulman
+
+(list still growing)
