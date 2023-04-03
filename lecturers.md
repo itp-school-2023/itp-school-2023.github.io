@@ -13,6 +13,7 @@ The speakers at the summer school will include:
 * Andrej Bauer
 * Thierry Coquand
 * John Harrison
+* Angeliki Koutsoukou Argyraki
 * Conor McBride
 * Paige Randall North
 * Emily Riehl
