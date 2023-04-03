@@ -11,6 +11,7 @@ The speakers at the summer school will include:
 * Benedikt Ahrens
 * Steve Awodey
 * Andrej Bauer
+* Yves Bertot
 * Thierry Coquand
 * John Harrison
 * Angeliki Koutsoukou Argyraki
