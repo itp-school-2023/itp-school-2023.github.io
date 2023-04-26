@@ -16,6 +16,7 @@ The speakers at the summer school will include:
 * John Harrison
 * Angeliki Koutsoukou Argyraki
 * Conor McBride
+* Leonardo de Moura
 * Paige Randall North
 * Emily Riehl
 * Michael Shulman
