@@ -37,3 +37,7 @@ of Regensburg.
 * <a href="https://cisinski.app.uni-regensburg.de/">Denis-Charles Cisinski</a>
 * <a href="https://loeh.app.uni-regensburg.de/">Clara Löh</a>
 * <a href="https://www.uni-regensburg.de/informatik-data-science/theoretische-informatik/startseite/index.html">Philipp Rümmer</a>
+
+## Sponsors of the Summer School ##
+
+<img src="/pictures/ur_logo_text.png"  width="220px"> &nbsp;&nbsp; <img src="/pictures/higher-invariants.png"  width="220px"> &nbsp;&nbsp; <img src="/pictures/unistiftung-vielberth.png"  width="220px">
