@@ -40,4 +40,6 @@ of Regensburg.
 
 ## Sponsors of the Summer School ##
 
-<img src="/pictures/ur_logo_text.png"  width="220px"> &nbsp;&nbsp; <img src="/pictures/higher-invariants.png"  width="220px"> &nbsp;&nbsp; <img src="/pictures/unistiftung-vielberth.png"  width="220px">
+<img src="/pictures/ur_logo_text.png" style="padding: 4px 4px 4px 4px;" alt="University of Regensburg" width="200px">
+<img src="/pictures/higher-invariants.png" style="padding: 4px 4px 4px 4px;" alt="Higher Invariants" width="280px">
+<img src="/pictures/unistiftung-vielberth.png" style="padding: 4px 4px 4px 4px;" alt="Universitätsstiftung Hans Vielberth" width="220px">
