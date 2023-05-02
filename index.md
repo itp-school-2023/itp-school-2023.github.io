@@ -41,4 +41,4 @@ of Regensburg.
 
 <img src="/pictures/ur_logo_text.png" style="padding: 4px 4px 4px 4px;" alt="University of Regensburg" width="200px">
 <img src="/pictures/unistiftung-vielberth.png" style="padding: 4px 4px 4px 4px;" alt="Universitätsstiftung Hans Vielberth" width="220px">
-<img src="/pictures/higher-invariants.png" style="padding: 4px 4px 4px 4px;" alt="Higher Invariants" width="280px">
+<img src="/pictures/higher-invariants.png" style="padding: 4px 4px 4px 4px;" alt="Higher Invariants" width="320px">
