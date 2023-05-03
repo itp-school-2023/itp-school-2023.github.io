@@ -37,6 +37,10 @@ of Regensburg.
 * <a href="https://loeh.app.uni-regensburg.de/">Clara Löh</a>
 * <a href="https://www.uni-regensburg.de/informatik-data-science/theoretische-informatik/startseite/index.html">Philipp Rümmer</a>
 
+Please send questions about the summer school to itp-school-2023@googlegroups.com
+
+ssa-school-2016@sat.inesc-id.pt.
+
 ## Sponsors of the Summer School ##
 
 <img src="/pictures/ur_logo_text.png" style="padding: 4px 4px 4px 4px;" alt="University of Regensburg" width="200px">
