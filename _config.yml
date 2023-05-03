@@ -30,6 +30,8 @@ sidebar:
     link: /
   - name: Lecturers
     link: lecturers
+  - name: Poster
+    link: /pictures/poster.pdf
     
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
