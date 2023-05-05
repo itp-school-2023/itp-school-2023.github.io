@@ -14,7 +14,7 @@ general problem solving skills, programming and math skills are helpful. Partici
 opportunity to give short presentations about their own research.
 
 As the number of participants is limited, all prospective participants will have to apply and provide a description
-of their research background, and their motivation to attend the school. Based on this information,
+of their research background and their motivation to attend the school. Based on this information,
 approximately 60 participants will be chosen from all qualified applicants. Admitted participants will then be
 provided a link for registration.
 
