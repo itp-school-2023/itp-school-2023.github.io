@@ -35,9 +35,10 @@ include the lectures, coffee breaks, and banquet.  They do **not** include
 accommodation and travel expenses. Participants are kindly asked to
 bring their own laptops (if possible) for the practical sessions.
 
-Accommodation has to be booked independently. We have reserved,
-however, blocks of rooms at nearby hotels in Regensburg, which
-participants can book.
+Accommodation has to be booked independently. We have reserved a certain
+number of rooms at nearby hotels in Regensburg, which
+participants can book. Information about this will be provided after
+registration.
 
 We are also considering the possibility of opening the lectures (but
 not exercises, etc.)  for remote attendance. Remote participants do
