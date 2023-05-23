@@ -30,6 +30,8 @@ sidebar:
     link: /
   - name: Lecturers
     link: lecturers
+  - name: Participation
+    link: participation
   - name: Poster
     link: /pictures/poster.pdf
     
