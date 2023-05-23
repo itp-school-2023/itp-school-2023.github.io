@@ -22,3 +22,5 @@ The speakers at the summer school will include:
 * Michael Shulman (online lecture)
 
 (list still growing)
+
+**Note to the lecturers:** we have been notified that some people were contacted by companies such as Traveller Point concerning travel arrangements. Any offers of this kind are spam and should be ignored!
