@@ -15,7 +15,7 @@ The speakers at the summer school will include:
 * Thierry Coquand
 * John Harrison
 * Angeliki Koutsoukou Argyraki
-* Nikolay Kudasov
+* Nikolai Kudasov
 * Conor McBride
 * Leonardo de Moura (online lecture)
 * Paige Randall North
