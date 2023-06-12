@@ -15,6 +15,8 @@ layout: default
 
 Andrej Bauer is a professor of computational mathematics at the Faculty of Mathematics and Physics of the University of Ljubljana. In 1994 he received his Sc.B. in Mathematics from Ljubljana, and in 2000 he received his PhD in Pure and Applied Logic from Carnegie Mellon University under the supervision of Dana S. Scott. In 2001, he spent a semester at the Mittag-Leffler Institute in Stockholm, Sweden. In 2012, he was a fellow at the Institute for Advanced Study, where he contributed to the development of homotopy type theory. Bauer’s work spans foundations of mathematics, constructive and computable mathematics, type theory, homotopy type theory, and mathematical principles of programming languages. He is an author of the book “Homotopy Type Theory: Univalent Foundations of Mathematics” and the initiator of the HoTT library, an extensive formalization of homotopy type theory in the Coq proof assistant. He is also known for his seminal work on programming with algebraic effects and handlers. Lately he has been working on type theory and the design of proof assistants.
 
+<img align="right" src="portraits/yves-bertot.jpg">
+
 ### Yves Bertot ###
 
 Yves Bertot has been a research scientist at Inria since 1992.  He
