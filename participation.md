@@ -18,7 +18,7 @@ of their research background and their motivation to attend the school. Based on
 approximately 60 participants will be chosen from all qualified applicants. Admitted participants will then be
 provided a link for registration.
 
-[Registration form](https://forms.gle/QeCDfb3mMUfqJLPJ8)
+*Applications to the summer school are now closed, and notifications will be sent out later in June. If you missed the deadline, or have any questions about your application, please contact the organizers!*
 
 ## Preliminary deadlines ##
 
