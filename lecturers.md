@@ -59,8 +59,13 @@ John Harrison is a Senior Principal Applied Scientist in the
   the HOL Light interactive theorem prover and author of the textbook
   "Handbook of Practical Logic and Automated Reasoning".
 
+<img align="right" src="portraits/angeliki-koutsoukou-argyraki.jpg">
 
-### Angeliki Koutsoukou Argyraki ###
+### Angeliki Koutsoukou-Argyraki ###
+
+Angeliki Koutsoukou-Argyraki is a mathematician working at the
+Computer Laboratory of the University of Cambridge.
+
 ### Nikolai Kudasov ###
 ### Conor McBride ###
 ### Leonardo de Moura (online lecture) ###
