@@ -12,8 +12,8 @@ layout: default
 The summer school will take place at the following venue in the centre
 of the old town:
 
-Haus der Begegnung
-Hinter der Grieb 8
+Haus der Begegnung<br/>
+Hinter der Grieb 8<br/>
 93047 Regensburg 
 
 ## Travelling to Regensburg ##
