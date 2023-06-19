@@ -9,7 +9,18 @@ layout: default
 
 **Note to the lecturers:** we have been notified that some people were contacted by companies such as Traveller Point concerning travel arrangements. Any offers of this kind are spam and should be ignored!
 
+<img align="right" src="portraits/benedikt-ahrens.jpg">
+
 ### Benedikt Ahrens ###
+
+Benedikt Ahrens is an assistant professor at Delft University of Technology (Netherlands), and a Birmingham Fellow at University of Birmingham (UK).
+
+Ahrens received his Ph.D. in mathematics from Université Nice Sophia Antipolis, supervised by André Hirschowitz. He was a postdoctoral researcher at the Institute for Advanced Study in 2012/13 (during the Special Year on Homotopy Type Theory and Univalent Foundations) and in 2015/16.
+
+Jointly with others, Ahrens has been developing category theory and its applications in univalent foundations. He is a co-founder and co-maintainer of the UniMath library of computer-checked mathematics in the univalent style. Many of his research results are computer-checked in UniMath.
+
+Ahrens is the main organizer of the School on Univalent Mathematics, which teaches students in univalent foundations and the computer-implementation of mathematics in univalent foundations. 
+
 ### Steve Awodey ###
 
 <img align="right" src="portraits/andrej-bauer.jpg">
