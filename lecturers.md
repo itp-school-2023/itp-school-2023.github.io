@@ -74,7 +74,7 @@ Computer Laboratory of the University of Cambridge.
 
 Emily Riehl is a Professor of Mathematics at Johns Hopkins University in Baltimore working in higher category theory and homotopy type theory. She has recently embarked on a collaborative project to formalize aspects of infinity-category theory in the computer proof assistant rzk. This proof assistant, developed by Nikolai Kudasov, is based on the simplicial type theory introduced in a joint paper with Mike Shulman, a formal system which has semantics in the category of simplicial objects in any infinity-topos.
 
-<img align="right" src="portraits/emily_riehl.jpg">
+<img align="right" src="portraits/emily_riehl.jpg" width=150>
 
 ### Michael Shulman (online lecture) ###
 
