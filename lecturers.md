@@ -82,7 +82,7 @@ Computer Laboratory of the University of Cambridge.
 ### Leonardo de Moura (online lecture) ###
 ### Paige Randall North ###
 
-<img align="right" src="portraits/emily_riehl.jpg" width=300>
+<img align="right" src="portraits/emily-riehl.jpg" width=200>
 
 ### Emily Riehl ###
 
