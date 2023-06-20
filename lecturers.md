@@ -21,7 +21,15 @@ Jointly with others, Ahrens has been developing category theory and its applicat
 
 Ahrens is the main organizer of the School on Univalent Mathematics, which teaches students in univalent foundations and the computer-implementation of mathematics in univalent foundations. 
 
+<img align="right" src="portraits/steve-awodey.jpg" width=200>
+
 ### Steve Awodey ###
+
+Steve Awodey is a professor of Philosophy and Mathematics at Carnegie Mellon University.                  
+He studied in Marburg, Germany, and at the University of Chicago,                                         
+where he did his PhD under Saunders Mac Lane.
+
+He works on Category Theory, Logic, and Homotopy Type Theory. 
 
 <img align="right" src="portraits/andrej-bauer.jpg">
 
