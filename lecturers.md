@@ -31,6 +31,8 @@ where he did his PhD under Saunders Mac Lane.
 
 He works on Category Theory, Logic, and Homotopy Type Theory. 
 
+<br/>
+
 <img align="right" src="portraits/andrej-bauer.jpg">
 
 ### Andrej Bauer ###
