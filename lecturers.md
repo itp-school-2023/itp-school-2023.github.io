@@ -66,7 +66,7 @@ JAR'17, Distant Decimals of PI, with L. Rideau and L. Théry).  Current
 work is concerned with trajectory computation and formal proof of
 absence of collision.
 
-### Thierry Coquand ###
+### Thierry Coquand (online lecture) ###
 
 ### John Harrison ###
 
