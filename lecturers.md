@@ -92,6 +92,8 @@ Computer Laboratory of the University of Cambridge.
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 
 <img align="right" src="portraits/nikolai-kudasov.jpg">
 
