@@ -87,7 +87,18 @@ John Harrison is a Senior Principal Applied Scientist in the
 Angeliki Koutsoukou-Argyraki is a mathematician working at the
 Computer Laboratory of the University of Cambridge.
 
+<img align="right" src="portraits/nikolai-kudasov.jpg">
+
 ### Nikolai Kudasov ###
+
+Nikolai Kudasov is a senior instructor and researcher at Innopolis
+University (Tatarstan, Russia) with a background in software
+engineering. Nikolai's research interests lie with (functional)
+programming languages, type theory, and category theory. He is
+currently working on an experimental proof assistant rzk based on
+Riehl and Shulman's type theory for synthetic ∞-categories introduced
+in 2017.
+
 ### Conor McBride ###
 ### Leonardo de Moura (online lecture) ###
 ### Paige Randall North ###
