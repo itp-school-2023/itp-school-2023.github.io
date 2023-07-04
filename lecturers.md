@@ -86,6 +86,9 @@ John Harrison is a Senior Principal Applied Scientist in the
 
 Angeliki Koutsoukou-Argyraki is a mathematician working at the
 Computer Laboratory of the University of Cambridge.
+<br/>
+<br/>
+<br/>
 
 <img align="right" src="portraits/nikolai-kudasov.jpg">
 
