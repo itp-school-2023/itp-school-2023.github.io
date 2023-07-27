@@ -26,6 +26,7 @@ provided a link for registration.
 * Application deadline: June 9, 2023
 * Notification: around June 19, 2023
 * Regular registration deadline: August 1, 2023
+* Online registration deadline: September 15, 2023
 * Summer school: September 18-29, 2023
 
 ## Registration fees for participants ##
@@ -40,7 +41,11 @@ number of rooms at nearby hotels in Regensburg, which
 participants can book. Information about this will be provided after
 registration.
 
-We are also considering the possibility of opening the lectures (but
-not exercises, etc.)  for remote attendance. Remote participants do
-**not** have to apply to the summer school through the above form, and
-there will be a separate registation form.
+# Online participation
+
+Selected talks and lectures at the summer school (but no exercises,
+etc.) will be streamed via Zoom. Those talks can be followed remotely
+free of charge, but we require upfront registration through (this
+form)[https://forms.gle/TLWP4kpiuqwBsc7D8].
+
+***The deadline for registering for remote attendance September 15, 2023.***
