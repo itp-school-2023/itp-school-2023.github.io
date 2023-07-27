@@ -20,6 +20,8 @@ provided a link for registration.
 
 *Applications to the summer school are now closed, and notifications will be sent out later in June. If you missed the deadline, or have any questions about your application, please contact the organizers!*
 
+*It is also still possible to register for remote attendance, see further down.*
+
 ## Preliminary deadlines ##
 
 * Application opens: May 9, 2023
@@ -45,7 +47,7 @@ registration.
 
 Selected talks and lectures at the summer school (but no exercises,
 etc.) will be streamed via Zoom. Those talks can be followed remotely
-free of charge, but we require upfront registration through (this
-form)[https://forms.gle/TLWP4kpiuqwBsc7D8].
+free of charge, but we require upfront registration through [this
+form](https://forms.gle/TLWP4kpiuqwBsc7D8).
 
-***The deadline for registering for remote attendance September 15, 2023.***
+**The deadline for registering for remote attendance September 15, 2023.**
