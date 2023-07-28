@@ -126,6 +126,10 @@ in 2017.
 
 <hr/>
 
+### Jannis Limperg ###
+
+<hr/>
+
 ### Conor McBride ###
 
 <hr/>
