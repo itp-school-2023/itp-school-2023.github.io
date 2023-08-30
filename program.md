@@ -19,15 +19,15 @@ Lecture titles will be added as well.
 | *Coffee break*
 | 11:15 - 12:00                | *Introductions*                | Nikolai Kudasov     | Paige Randall North | Angeliki Koutsoukou-Argyraki | Paige Randall North |
 | *Lunch break*
-| 14:00 - 14:45                |                                | Yves Bertot         | Paige Randall North | John Harrison                | Angeliki Koutsoukou-Argyraki |
+| 14:00 - 14:45                | *Tool installation, etc.*                               | Yves Bertot         | Paige Randall North | John Harrison                | Angeliki Koutsoukou-Argyraki |
 | *Coffee break*
 | 15:30 - 17:00                |                                | *Contributed Talks* | *Contributed Talks* | *Contributed Talks*
 |                              |                                |                     |                     | *From 19:00:<br> Banquet*
 | **Week 2 (September 25-29)** |
-| 9:00 - 10:30                 | Jannis Limperg                 | Benedikt Ahrens     | Steve Awodey                 | Andrej Bauer                 |
+| 9:00 - 10:30                 | Jannis Limperg                 | Benedikt Ahrens     | Steve Awodey                 | Andrej Bauer                 | tba
 | *Coffee break*
-| 11:15 - 12:00                |                                | Jannis Limperg      | Thierry Coquand *(online)*   | Steve Awodey                 |
+| 11:15 - 12:00                | tba                            | Jannis Limperg      | Thierry Coquand *(online)*   | Steve Awodey                 | tba
 | *Lunch break*
-| 14:00 - 14:45                | Jannis Limperg                 |                     | Thierry Coquand *(online)*   | Andrej Bauer                 |
+| 14:00 - 14:45                | Jannis Limperg                 | tba                 | Thierry Coquand *(online)*   | Andrej Bauer                 |
 | *Coffee break*
-| 15:30 - 17:00                | Michael Shulman *(online)*     | *Contributed Talks* | Leonardo de Moura *(online)* |                              |
+| 15:30 - 17:00                | Michael Shulman *(online)*     | *Contributed Talks* | Leonardo de Moura *(online)* | *Contributed Talks*          |
