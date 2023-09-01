@@ -26,7 +26,7 @@ Lecture titles will be added as well.
 | **Week 2 (September 25-29)** |
 | 9:00 - 10:30                 | Jannis Limperg                 | Benedikt Ahrens     | Steve Awodey                 | Andrej Bauer                 | tba
 | *Coffee break*
-| 11:15 - 12:00                | tba                            | Jannis Limperg      | Thierry Coquand *(online)*   | Steve Awodey                 | tba
+| 11:15 - 12:00                | Conor McBride                         | Jannis Limperg      | Thierry Coquand *(online)*   | Steve Awodey                 | tba
 | *Lunch break*
 | 14:00 - 14:45                | Jannis Limperg                 | tba                 | Thierry Coquand *(online)*   | Andrej Bauer                 |
 | *Coffee break*
