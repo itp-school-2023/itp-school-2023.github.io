@@ -30,6 +30,8 @@ sidebar:
     link: /
   - name: Lecturers
     link: lecturers
+  - name: Program
+    link: program
   - name: Participation
     link: participation
   - name: Travel
