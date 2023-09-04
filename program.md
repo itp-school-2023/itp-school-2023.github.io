@@ -17,7 +17,7 @@ Lecture titles will be added as well.
 |                              | *From 8:30:<br> Registration*  | 
 | 9:00 - 10:30                 | Yves Bertot                    | Emily Riehl         | Yves Bertot         | John Harrison                | John Harrison       |
 | *Coffee break*
-| 11:15 - 12:00                | *Introductions*                | Nikolai Kudasov     | Angeliki Koutsoukou-Argyraki | Paige Randall North | Paige Randall North |
+| 11:15 - 12:00                | *Introductions*                | Nikolai Kudasov     | Paige Randall North | Paige Randall North | Angeliki Koutsoukou-Argyraki |
 | *Lunch break*
 | 14:00 - 14:45                | *Tool installation, etc.*                               | Yves Bertot         | Paige Randall North | John Harrison                | Angeliki Koutsoukou-Argyraki |
 | *Coffee break*
