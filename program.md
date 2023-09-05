@@ -28,6 +28,6 @@ Lecture titles will be added as well.
 | *Coffee break*
 | 11:15 - 12:00                | Conor McBride                         | Jannis Limperg: A Taste of Lean 4      | Thierry Coquand *(online)*   | Steve Awodey: Algebraic type theory                 | tba
 | *Lunch break*
-| 14:00 - 14:45                | Jannis Limperg: A Taste of Lean 4 (Exercises)                 | Egbert Rijke                 | Thierry Coquand *(online)*   | tba                 |
+| 14:00 - 14:45                | Jannis Limperg: A Taste of Lean 4 (Exercises)                 | tba                 | Thierry Coquand *(online)*   | Egbert Rijke                 |
 | *Coffee break*
 | 15:30 - 17:00                | Michael Shulman: Modal type theories *(online)*     | *Contributed Talks* | Leonardo de Moura *(online)* | *Contributed Talks*          |
