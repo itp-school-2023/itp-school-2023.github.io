@@ -24,7 +24,7 @@ Lecture titles will be added as well.
 | 15:30 - 17:00                |                                | *Contributed Talks* | *Contributed Talks* | *Contributed Talks*
 |                              |                                |                     |                     | *From 19:00:<br> Banquet*
 | **Week 2 (September 25-29)** |
-| 9:00 - 10:30                 | Jannis Limperg: A Taste of Lean 4                 | Benedikt Ahrens: The Univalence Principle     | Steve Awodey: A category theoretic description of (homotopy) type theory                 | Egbert Rijke                 | tba
+| 9:00 - 10:30                 | Jannis Limperg: A Taste of Lean 4                 | Benedikt Ahrens: The Univalence Principle     | Steve Awodey: Homotopical semantics for type theory                 | Egbert Rijke                 | tba
 | *Coffee break*
 | 11:15 - 12:00                | Conor McBride                         | Jannis Limperg: A Taste of Lean 4      | Thierry Coquand *(online)*   | Steve Awodey: Algebraic type theory                 | tba
 | *Lunch break*
