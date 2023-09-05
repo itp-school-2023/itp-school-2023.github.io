@@ -150,6 +150,10 @@ Emily Riehl is a Professor of Mathematics at Johns Hopkins University in Baltimo
 
 <hr/>
 
+### Egbert Rijke ###
+
+<hr/>
+
 ### Michael Shulman (online lecture) ###
 
 
