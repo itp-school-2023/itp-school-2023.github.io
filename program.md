@@ -9,6 +9,8 @@ layout: default
 
 ***Note that the program will still be updated over the next days.***
 
+All times are CEST.
+
 Lecture titles will be added as well.
 
 |                              | Monday                         | Tuesday             | Wednesday           | Thursday                     | Friday              |
