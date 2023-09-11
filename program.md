@@ -9,7 +9,8 @@ layout: default
 
 ***Note that the program will still be updated over the next days.***
 
-All times are CEST.
+All times are CEST. The conference venue is Haus der Begegnung, Hinter der Grieb 8, 93047 Regensburg: https://osm.org/go/0JHHl5mJB--?layers=N&m=&way=111082760
+
 
 Lecture titles will be added as well.
 
