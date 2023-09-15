@@ -17,9 +17,9 @@ Missing lecture titles to be added.
 |                              | *From 8:30:<br> Registration*  | 
 | 9:00 - 10:30                 | Yves Bertot                    | Emily Riehl: Formalizing ∞-category theory in the Rzk proof assistant         | Yves Bertot         | John Harrison                | John Harrison       |
 | *Coffee break*
-| 11:15 - 12:00                | *Introductions* *               | Nikolai Kudasov     | Paige Randall North | Paige Randall North | Angeliki Koutsoukou-Argyraki |
+| 11:15 - 12:00                | *Introductions* *               | Nikolai Kudasov     | Paige Randall North | Paige Randall North | Angeliki Koutsoukou-Argyraki *(online)* |
 | *Lunch break*
-| 14:00 - 14:45                | *Tool installation, etc.* *                              | Yves Bertot *        | Paige Randall North * | John Harrison *                | Angeliki Koutsoukou-Argyraki |
+| 14:00 - 14:45                | *Tool installation, etc.* *                              | Yves Bertot *        | Paige Randall North * | John Harrison *                | Angeliki Koutsoukou-Argyraki *(online)* |
 | *Coffee break*
 | 15:30 - 17:00                |                                | *Contributed Talks* | *Contributed Talks* | *Contributed Talks*
 |                              |                                |                     |                     | *From 19:00:<br> Banquet* *
@@ -32,7 +32,7 @@ Missing lecture titles to be added.
 | *Coffee break*
 | 15:30 - 17:00                | Michael Shulman: Modal type theories *(online)*     | *Contributed Talks* | Leonardo de Moura *(online)* | *Contributed Talks*          |
 
-Sessions marked with * will (probably) *not* be streamed on Zoom.
+Sessions marked with * will *not* be streamed on Zoom.
 
 ## Contributed presentations ##
 
