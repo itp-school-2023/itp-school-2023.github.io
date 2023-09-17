@@ -34,6 +34,8 @@ sidebar:
     link: program
   - name: Participation
     link: participation
+  - name: Tool Installation
+    link: installation
   - name: Travel
     link: travel
   - name: Poster
