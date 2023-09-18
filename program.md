@@ -38,9 +38,9 @@ Sessions marked with * will *not* be streamed on Zoom.
 
 Tue, September 19
 
-* 15:30-15:55: Nima Rasekh:
-  Formalising categories
-
+* 15:30-15:55: Cesar Bardomiano Martinez: 
+  Limits and colimits in simplicial homotopy type theory
+  
 * 16:00-16:25: Matthias Hutzler: 
   Synthetic algebraic geometry
 
@@ -52,8 +52,8 @@ Wednesday, September 20
 * 15:30-15:55: Florrie Verity: 
   Pen-and-paper type theory
 
-* 16:00-16:25: Cesar Bardomiano Martinez: 
-  Limits and colimits in simplicial homotopy type theory
+* 16:00-16:25: Nima Rasekh:
+  Formalising categories
 
 * 16:30-16:55: Cosimo P. Brogi: 
   Theorem provers within theorem provers: Experiments with modal logic in HOL Light
