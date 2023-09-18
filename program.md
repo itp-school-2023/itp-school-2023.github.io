@@ -22,7 +22,7 @@ Missing lecture titles to be added.
 | 14:00 - 14:45                | *Tool installation, etc.* *                              | Yves Bertot *        | Paige Randall North * | John Harrison *                | Angeliki Koutsoukou-Argyraki *(online)* |
 | *Coffee break*
 | 15:30 - 17:00                |                                | *Contributed Talks* | *Contributed Talks* | *Contributed Talks*
-|                              |                                |                     |                     | *From 19:00:<br> Banquet* *
+|                              |                                |                     |                     | *From 19:00:<br> Banquet at <a href="https://www.brauhaus-am-schloss.com/">Brauhaus am Schloss</a>* *
 | **Week 2 (September 25-29)** |
 | 9:00 - 10:30                 | Jannis Limperg: A Taste of Lean 4                 | Benedikt Ahrens: The Univalence Principle     | Steve Awodey: Homotopical semantics for type theory                 | Egbert Rijke                 | tba
 | *Coffee break*
