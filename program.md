@@ -15,7 +15,7 @@ Missing lecture titles to be added.
 |------------------------------|--------------------------------|---------------------|---------------------|------------------------------|---------------------|
 | **Week 1 (September 18-22)** |
 |                              | *From 8:30:<br> Registration*  | 
-| 9:00 - 10:30                 | Yves Bertot                    | Emily Riehl: Formalizing ∞-category theory in the Rzk proof assistant         | Yves Bertot         | John Harrison                | John Harrison       |
+| 9:00 - 10:30                 | Yves Bertot (<a href="https://www-sop.inria.fr/members/Yves.Bertot/Regensburg_lectures/slides1.pdf">Slides</a>; <a href="https://www-sop.inria.fr/members/Yves.Bertot/Regensburg_lectures/slides1.v">Sources</a>)                    | Emily Riehl: Formalizing ∞-category theory in the Rzk proof assistant         | Yves Bertot         | John Harrison                | John Harrison       |
 | *Coffee break*
 | 11:15 - 12:00                | *Introductions* *               | Nikolai Kudasov     | Paige Randall North | Paige Randall North | Angeliki Koutsoukou-Argyraki *(online)* |
 | *Lunch break*
@@ -26,9 +26,9 @@ Missing lecture titles to be added.
 | **Week 2 (September 25-29)** |
 | 9:00 - 10:30                 | Jannis Limperg: A Taste of Lean 4                 | Benedikt Ahrens: The Univalence Principle     | Steve Awodey: Homotopical semantics for type theory                 | Egbert Rijke                 | tba
 | *Coffee break*
-| 11:15 - 12:00                | Conor McBride                         | Jannis Limperg: A Taste of Lean 4      | Thierry Coquand *(online)*   | Steve Awodey: Algebraic type theory                 | tba
+| 11:15 - 12:00                | Conor McBride                         | Jannis Limperg: A Taste of Lean 4      | Thierry Coquand: From Type Theory to Homotopy Theory *(online)*   | Steve Awodey: Algebraic type theory                 | tba
 | *Lunch break*
-| 14:00 - 14:45                | Jannis Limperg: A Taste of Lean 4 (Exercises) *                 | tba                 | Thierry Coquand *(online)*   | Egbert Rijke                 |
+| 14:00 - 14:45                | Jannis Limperg: A Taste of Lean 4 (Exercises) *                 | tba                 | Thierry Coquand: From Type Theory to Homotopy Theory *(online)*   | Egbert Rijke                 |
 | *Coffee break*
 | 15:30 - 17:00                | Michael Shulman: Modal type theories *(online)*     | *Contributed Talks* | Leonardo de Moura *(online)* | *Contributed Talks*          |
 
