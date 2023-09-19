@@ -43,6 +43,7 @@ Tue, September 19
   
 * 16:00-16:25: Matthias Hutzler: 
   Synthetic algebraic geometry
+  (<a href="https://matthias-hutzler.de/itp-school-2023/contributed-talk-slides.pdf ">Slides</a>)
 
 * 16:30-16:55: Sven Dziadek:
   Algebraic Automata Theory
