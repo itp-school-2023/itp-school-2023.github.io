@@ -40,6 +40,7 @@ Tue, September 19
 
 * 15:30-15:55: Cesar Bardomiano Martinez: 
   Limits and colimits in simplicial homotopy type theory
+  (<a href="./slides/slides_bardomianomartinez.pdf">Slides</a>)
   
 * 16:00-16:25: Matthias Hutzler: 
   Synthetic algebraic geometry
@@ -47,6 +48,7 @@ Tue, September 19
 
 * 16:30-16:55: Sven Dziadek:
   Algebraic Automata Theory
+  (<a href="./slides/slides_dziadek.pdf">Slides</a>)
 
 Wednesday, September 20
 
