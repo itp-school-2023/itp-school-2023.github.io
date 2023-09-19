@@ -17,7 +17,7 @@ Missing lecture titles to be added.
 |                              | *From 8:30:<br> Registration*  | 
 | 9:00 - 10:30                 | Yves Bertot (<a href="https://www-sop.inria.fr/members/Yves.Bertot/Regensburg_lectures/slides1.pdf">Slides</a>; <a href="https://www-sop.inria.fr/members/Yves.Bertot/Regensburg_lectures/slides1.v">Examples</a>)                    | Emily Riehl: Formalizing ∞-category theory in the Rzk proof assistant         | Yves Bertot         | John Harrison                | John Harrison       |
 | *Coffee break*
-| 11:15 - 12:00                | *Introductions* *               | Nikolai Kudasov     | Paige Randall North | Paige Randall North | Angeliki Koutsoukou-Argyraki *(online)* |
+| 11:15 - 12:00                | *Introductions* *               | Nikolai Kudasov  (<a href="https://fizruk.github.io/itp-school-2023-demo/">rzk demo</a>)   | Paige Randall North | Paige Randall North | Angeliki Koutsoukou-Argyraki *(online)* |
 | *Lunch break*
 | 14:00 - 14:45                | *Tool installation, etc.* *                              | Yves Bertot *        | Paige Randall North * | John Harrison *                | Angeliki Koutsoukou-Argyraki *(online)* |
 | *Coffee break*
