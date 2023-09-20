@@ -45,4 +45,4 @@ Please send questions about the summer school to <a href="mailto:itp-school-2023
 <img src="/pictures/unistiftung-vielberth.png" style="padding: 4px 4px 4px 4px;" alt="Universitätsstiftung Hans Vielberth" width="220px">
 <img src="/pictures/higher-invariants.png" style="padding: 4px 4px 4px 4px;" alt="Higher Invariants" width="320px">
 
-If you would like to become a sponsor, please contact the organizers!
+
