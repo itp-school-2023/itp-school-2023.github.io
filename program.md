@@ -19,7 +19,7 @@ Missing lecture titles to be added.
 | *Coffee break*
 | 11:15 - 12:00                | *Introductions* *               | Nikolai Kudasov  (<a href="https://fizruk.github.io/itp-school-2023-demo/">rzk demo</a>)   | Paige Randall North (<a href="https://github.com/paigenorth/itp-hott">Notes/Exercises</a>) | Paige Randall North | Angeliki Koutsoukou-Argyraki *(online)* |
 | *Lunch break*
-| 14:00 - 14:45                | *Tool installation, etc.* *                              | Yves Bertot * (<a href="https://www-sop.inria.fr/members/Yves.Bertot/Regensburg_lectures/slides2.v">Demo</a>; <a href="https://www-sop.inria.fr/members/Yves.Bertot/Regensburg_lectures/slides2.pdf">additional slides</a>)       | Paige Randall North * (<a href="https://github.com/paigenorth/itp-hott ">Notes/Exercises</a>) | John Harrison *                | Angeliki Koutsoukou-Argyraki *(online)* |
+| 14:00 - 14:45                | *Tool installation, etc.* *                              | Yves Bertot * (<a href="https://www-sop.inria.fr/members/Yves.Bertot/Regensburg_lectures/slides2.v">Demo</a>; <a href="https://www-sop.inria.fr/members/Yves.Bertot/Regensburg_lectures/slides2.pdf">additional slides</a>)       | Paige Randall North (<a href="https://github.com/paigenorth/itp-hott ">Notes/Exercises</a>) | John Harrison *                | Angeliki Koutsoukou-Argyraki *(online)* |
 | *Coffee break*
 | 15:30 - 17:00                |                                | *Contributed Talks* | *Contributed Talks* | *Contributed Talks*
 |                              |                                |                     |                     | *From 19:00:<br> Banquet at <a href="https://www.brauhaus-am-schloss.com/">Brauhaus am Schloss</a>* *
