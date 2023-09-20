@@ -60,6 +60,7 @@ Wednesday, September 20
 
 * 16:30-16:55: Cosimo P. Brogi: 
   Theorem provers within theorem provers: Experiments with modal logic in HOL Light
+  (<a href="./slides/slides_brogi.pdf">Slides</a>)
 
 Thursday, September 21
 
