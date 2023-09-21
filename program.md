@@ -68,6 +68,7 @@ Thursday, September 21
 
 * 15:30-15:55: David Martínez-Carpena:
   Limit sketches and presentability
+  (<a href="https://dvmcarpena.com/files/talks/itp-school-2023_DavidMartinezCarpena.pdf">Slides</a>)
 
 * 16:00-16:25: Jakob Rath:
   PolySAT -- A word-level solver for large bitvectors
