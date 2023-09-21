@@ -54,9 +54,11 @@ Wednesday, September 20
 
 * 15:30-15:55: Florrie Verity: 
   Pen-and-paper type theory
+  (<a href="./slides/slides_verity.pdf">Slides</a>)
 
 * 16:00-16:25: Nima Rasekh:
   Formalising categories
+  (<a href="./slides/slides_rasekh.pdf">Slides</a>)
 
 * 16:30-16:55: Cosimo P. Brogi: 
   Theorem provers within theorem provers: Experiments with modal logic in HOL Light
