@@ -71,6 +71,7 @@ Thursday, September 21
 
 * 16:00-16:25: Jakob Rath:
   PolySAT -- A word-level solver for large bitvectors
+  (<a href="./slides/slides_rath.pdf">Slides</a>)
 
 * 16:30-16:55: Simon Guilloud:
   LISA: A modern proof system
