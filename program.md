@@ -76,6 +76,7 @@ Thursday, September 21
 
 * 16:30-16:55: Simon Guilloud:
   LISA: A modern proof system
+  (<a href="./slides/slides_guilloud.pdf">Slides</a>)
 
 Tuesday, September 26
 
