@@ -26,7 +26,7 @@ Missing lecture titles to be added.
 | **Week 2 (September 25-29)** |
 | 9:00 - 10:30                 | Jannis Limperg: A Taste of Lean 4                 | Benedikt Ahrens: The Univalence Principle     | Steve Awodey: Homotopical semantics for type theory                 | Egbert Rijke                 | Egbert Rijke
 | *Coffee break*
-| 11:15 - 12:00                | Conor McBride                         | Jannis Limperg: A Taste of Lean 4      | Thierry Coquand: From Type Theory to Homotopy Theory *(online)*   | Steve Awodey: Algebraic type theory                 | tba
+| 11:15 - 12:00                | Conor McBride: Dependently typed programming as diagram completion *(online)*                        | Jannis Limperg: A Taste of Lean 4      | Thierry Coquand: From Type Theory to Homotopy Theory *(online)*   | Steve Awodey: Algebraic type theory                 | tba
 | *Lunch break*
 | 14:00 - 14:45                | Jannis Limperg: A Taste of Lean 4 (Exercises) *                 | Emily Riehl/Nikolai Kudasov: Problem session                 | Thierry Coquand: From Type Theory to Homotopy Theory *(online)*   | Egbert Rijke                 |
 | *Coffee break*
