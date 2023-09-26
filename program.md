@@ -82,12 +82,15 @@ Tuesday, September 26
 
 * 15:30-15:55: Matthias Uschold:
   Amenable groups in Lean
+  (<a href="./slides/slides_uschold.pdf">Slides</a>)
 
 * 16:00-16:25: Nico Beck: 
   A language for relative category theory
+  (<a href="./slides/slides_beck.pdf">Slides</a>)
 
 * 16:30-16:55: Jonas Frey: 
   Duality for clans and dependent algebraic theories
+  (<a href="./slides/slides_frey.pdf">Slides</a>)
 
 Thursday, September 28
 
