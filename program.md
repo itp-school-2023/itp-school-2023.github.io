@@ -24,7 +24,7 @@ Missing lecture titles to be added.
 | 15:30 - 17:00                |                                | *Contributed Talks* | *Contributed Talks* | *Contributed Talks*
 |                              |                                |                     |                     | *From 19:00:<br> Banquet at <a href="https://www.brauhaus-am-schloss.com/">Brauhaus am Schloss</a>* *
 | **Week 2 (September 25-29)** |
-| 9:00 - 10:30                 | Jannis Limperg: A Taste of Lean 4                 | Benedikt Ahrens: The Univalence Principle     | Steve Awodey: Homotopical semantics for type theory                 | Egbert Rijke                 | Egbert Rijke
+| 9:00 - 10:30                 | Jannis Limperg: A Taste of Lean 4 (<a href="https://github.com/JLimperg/regensburg-itp-school-2023">Material</a>)                 | Benedikt Ahrens: The Univalence Principle     | Steve Awodey: Homotopical semantics for type theory                 | Egbert Rijke                 | Egbert Rijke
 | *Coffee break*
 | 11:15 - 12:00                | Conor McBride: Dependently typed programming as diagram completion *(online)*                        | Jannis Limperg: A Taste of Lean 4      | Thierry Coquand: From Type Theory to Homotopy Theory *(online)*   | Steve Awodey: Algebraic type theory                 | tba
 | *Lunch break*
