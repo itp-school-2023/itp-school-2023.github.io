@@ -30,7 +30,7 @@ Missing lecture titles to be added.
 | *Lunch break*
 | 14:00 - 14:45                | Jannis Limperg: A Taste of Lean 4 (Exercises) *                 | Emily Riehl/Nikolai Kudasov: Problem session                 | Thierry Coquand: From Type Theory to Homotopy Theory *(online)*   | Egbert Rijke                 |
 | *Coffee break*
-| 15:30 - 17:00                | Michael Shulman: Modal type theories *(online)*     | *Contributed Talks* | Leonardo de Moura *(online)* | *Contributed Talks*          |
+| 15:30 - 17:00                | Michael Shulman: Modal type theories *(online)* (<a href="./slides/slides_shulman.pdf">Slides</a>, <a href="./slides/ivt.agda">Agda src</a>)    | *Contributed Talks* | Leonardo de Moura *(online)* | *Contributed Talks*          |
 
 Sessions marked with * will *not* be streamed on Zoom.
 
