@@ -26,7 +26,7 @@ Missing lecture titles to be added.
 | **Week 2 (September 25-29)** |
 | 9:00 - 10:30                 | Jannis Limperg: A Taste of Lean 4 (<a href="https://github.com/JLimperg/regensburg-itp-school-2023">Material</a>)                 | Benedikt Ahrens: The Univalence Principle     | Steve Awodey: Homotopical semantics for type theory (<a href="./slides/slides_awodey1.pdf">Slides</a>)                 | Egbert Rijke                 | Egbert Rijke
 | *Coffee break*
-| 11:15 - 12:00                | Conor McBride: Dependently typed programming as diagram completion *(online)*                        | Jannis Limperg: A Taste of Lean 4      | Thierry Coquand: From Type Theory to Homotopy Theory *(online)* (<a href="./slides/slides_coquand1.pdf">Slides</a>)  | Steve Awodey: Algebraic type theory                 | Jannis Limperg: A Taste of Lean 4 Metaprogramming
+| 11:15 - 12:00                | Conor McBride: Dependently typed programming as diagram completion *(online)*                        | Jannis Limperg: A Taste of Lean 4      | Thierry Coquand: From Type Theory to Homotopy Theory *(online)* (<a href="./slides/slides_coquand1.pdf">Slides</a>)  | Steve Awodey: Algebraic type theory (<a href="./slides/slides_awodey2.pdf">Slides</a>)               | Jannis Limperg: A Taste of Lean 4 Metaprogramming
 | *Lunch break*
 | 14:00 - 14:45                | Jannis Limperg: A Taste of Lean 4 (Exercises) *                 | Emily Riehl/Nikolai Kudasov: Problem session                 | Thierry Coquand: From Type Theory to Homotopy Theory *(online)* (<a href="./slides/slides_coquand2.pdf">Slides</a>)  | Egbert Rijke                 |
 | *Coffee break*
