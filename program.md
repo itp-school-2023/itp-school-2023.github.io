@@ -28,7 +28,7 @@ Missing lecture titles to be added.
 | *Coffee break*
 | 11:15 - 12:00                | Conor McBride: Dependently typed programming as diagram completion *(online)*                        | Jannis Limperg: A Taste of Lean 4      | Thierry Coquand: From Type Theory to Homotopy Theory *(online)* (<a href="./slides/slides_coquand1.pdf">Slides</a>)  | Steve Awodey: Algebraic type theory                 | Jannis Limperg: A Taste of Lean 4 Metaprogramming
 | *Lunch break*
-| 14:00 - 14:45                | Jannis Limperg: A Taste of Lean 4 (Exercises) *                 | Emily Riehl/Nikolai Kudasov: Problem session                 | Thierry Coquand: From Type Theory to Homotopy Theory *(online)*   | Egbert Rijke                 |
+| 14:00 - 14:45                | Jannis Limperg: A Taste of Lean 4 (Exercises) *                 | Emily Riehl/Nikolai Kudasov: Problem session                 | Thierry Coquand: From Type Theory to Homotopy Theory *(online)* (<a href="./slides/slides_coquand2.pdf">Slides</a>)  | Egbert Rijke                 |
 | *Coffee break*
 | 15:30 - 17:00                | Michael Shulman: Modal type theories *(online)* (<a href="./slides/slides_shulman.pdf">Slides</a>, <a href="./slides/ivt.agda">Agda src</a>)    | *Contributed Talks* | Leonardo de Moura *(online)* | *Contributed Talks*          |
 
