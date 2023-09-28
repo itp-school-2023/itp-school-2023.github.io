@@ -95,3 +95,4 @@ Tuesday, September 26
 Thursday, September 28
 
 * 15:30-17:00: project presentations (details tba)
+  (<a href="https://github.com/MatthiasHu/grahams-number-in-proof-assistants">Graham's number in proof assistants</a>)
